@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApplEMS2.props" />
+</Project>
